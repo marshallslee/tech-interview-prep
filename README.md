@@ -1,3 +1,12 @@
 # tech-interview-prep
 
-장차 있을 기술면접을 대비하면서 배운 점들을 기록하기 위한 리포지터리.
+Welcome to the tech-interview-prep repository!
+
+This repository is for all the people who are preparing for the tech interviews. 
+
+All the contents will be served in either Korean or English. 
+
+Any contributions will be very much appreciated. 😊
+
+## Table of Contents
+
